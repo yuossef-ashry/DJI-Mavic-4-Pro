@@ -1,0 +1,2002 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/fu18jqh0",
+    "id": "fu18jqh0",
+    "slide": 9,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "Blank",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Almarai",
+      "Almarai Bold",
+      "Cairo Bold",
+      "Calibri"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "Blank",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/2",
+          "id": "2",
+          "name": "Date Placeholder 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/3",
+          "id": "3",
+          "name": "Footer Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/4",
+          "id": "4",
+          "name": "Slide Number Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            48,
+            28.83,
+            864,
+            120
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            48,
+            168,
+            864,
+            475.17
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            48,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            328,
+            667.33,
+            304,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            688,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/judg7ads",
+      "id": "3",
+      "name": "Freeform 3",
+      "bbox": [
+        0,
+        0,
+        1920,
+        1112.67
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#F0F9FF"
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1orytsvu",
+      "id": "5",
+      "name": "Freeform 5",
+      "bbox": [
+        58.5,
+        105,
+        1803,
+        3
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "lineColor": "#2C4D9E",
+      "lineWidth": 3,
+      "fillImage": {
+        "assetId": "/ppt/media/image1.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 21932
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u18jqh0f",
+      "id": "6",
+      "name": "TextBox 6",
+      "bbox": [
+        1434,
+        59,
+        437.76,
+        31.24
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "مغامرة بناء عالم الويب للأبطال الصغار",
+      "textPreview": "مغامرة بناء عالم الويب للأبطال الصغار",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "مغامرة بناء عالم الويب للأبطال الصغار"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "مغامرة بناء عالم الويب للأبطال الصغار",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "مغامرة بناء عالم الويب للأبطال الصغار",
+              "fontSize": 27,
+              "typeface": "Almarai Bold",
+              "color": "#2C4D9E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jm1cfa9w",
+      "id": "7",
+      "name": "TextBox 7",
+      "bbox": [
+        60,
+        59,
+        203.04,
+        31.24
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "رحلة تعلم البرمجة",
+      "textPreview": "رحلة تعلم البرمجة",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "رحلة تعلم البرمجة"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "رحلة تعلم البرمجة",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "رحلة تعلم البرمجة",
+              "fontSize": 27,
+              "typeface": "Almarai Bold",
+              "color": "#2C4D9E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cvixczed",
+      "id": "8",
+      "name": "TextBox 8",
+      "bbox": [
+        990,
+        168.29,
+        894.24,
+        76.32
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "الذكاء هو من يجعل",
+      "textPreview": "الذكاء هو من يجعل",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "الذكاء هو من يجعل"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "الذكاء هو من يجعل",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "الذكاء هو من يجعل",
+              "fontSize": 63,
+              "typeface": "Cairo Bold",
+              "color": "#2C4D9E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gbq1ory",
+      "id": "9",
+      "name": "TextBox 9",
+      "bbox": [
+        990,
+        255.88,
+        894.24,
+        76.32
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "البيت يتفاعل معنا",
+      "textPreview": "البيت يتفاعل معنا",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "البيت يتفاعل معنا"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "البيت يتفاعل معنا",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "البيت يتفاعل معنا",
+              "fontSize": 63,
+              "typeface": "Cairo Bold",
+              "color": "#2C4D9E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8nqxs72x",
+      "id": "11",
+      "name": "Freeform 11",
+      "bbox": [
+        990,
+        379.17,
+        870,
+        175.5
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#FFFFFF"
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qh0fepkz",
+      "id": "13",
+      "name": "Freeform 13",
+      "bbox": [
+        1856.25,
+        375.42,
+        7.5,
+        183
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "lineColor": "#F39C12",
+      "lineWidth": 7.5,
+      "fillImage": {
+        "assetId": "/ppt/media/image1.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 21932
+      }
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1w7mp0bi",
+      "id": "14",
+      "name": "TextBox 14",
+      "bbox": [
+        1020,
+        401.67,
+        806.4,
+        50.4
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "جافا سكريبت: العقل المفكر",
+      "textPreview": "جافا سكريبت: العقل المفكر",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "جافا سكريبت: العقل المفكر"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "جافا سكريبت: العقل المفكر",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "جافا سكريبت: العقل المفكر",
+              "fontSize": 27,
+              "typeface": "Cairo Bold",
+              "color": "#F39C12",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8bat47y1",
+      "id": "15",
+      "name": "TextBox 15",
+      "bbox": [
+        1020,
+        453.17,
+        804.96,
+        71.8
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "تعمل جافا سكريبت مثل مفتاح الضوء وجرس الباب، فهي المسؤولة عن تحويل البيت إلى مكان ذكي يستجيب لنا.",
+      "textPreview": "تعمل جافا سكريبت مثل مفتاح الضوء وجرس الباب، فهي المسؤولة عن تحويل البيت إلى مكان ذكي يستجيب لنا.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "تعمل جافا سكريبت مثل مفتاح الضوء وجرس الباب، فهي المسؤولة عن تحويل البيت إلى مكان ذكي"
+          },
+          {
+            "index": 2,
+            "text": "يستجيب لنا."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "تعمل جافا سكريبت مثل مفتاح الضوء وجرس الباب، فهي المسؤولة عن تحويل البيت إلى مكان ذكي يستجيب لنا.",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "تعمل جافا سكريبت مثل مفتاح الضوء وجرس الباب، فهي المسؤولة عن تحويل البيت إلى مكان ذكي يستجيب لنا.",
+              "fontSize": 24,
+              "typeface": "Almarai",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q5o7qpg3",
+      "id": "17",
+      "name": "Freeform 17",
+      "bbox": [
+        990,
+        602.67,
+        870,
+        175.5
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#FFFFFF"
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c3ylc7u5",
+      "id": "19",
+      "name": "Freeform 19",
+      "bbox": [
+        1856.25,
+        598.92,
+        7.5,
+        183
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "lineColor": "#E74C3C",
+      "lineWidth": 7.5,
+      "fillImage": {
+        "assetId": "/ppt/media/image1.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 21932
+      }
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/orytsvu9",
+      "id": "20",
+      "name": "TextBox 20",
+      "bbox": [
+        1020,
+        625.17,
+        806.4,
+        50.4
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "التفاعل الفوري للبطل الصغير",
+      "textPreview": "التفاعل الفوري للبطل الصغير",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "التفاعل الفوري للبطل الصغير"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "التفاعل الفوري للبطل الصغير",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "التفاعل الفوري للبطل الصغير",
+              "fontSize": 27,
+              "typeface": "Cairo Bold",
+              "color": "#E74C3C",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcrmhk3q",
+      "id": "21",
+      "name": "TextBox 21",
+      "bbox": [
+        1020,
+        676.67,
+        804.96,
+        71.8
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "عندما يضغط بطلن�� على زر الجرس، ينطلق الصوت فوراً بفضل الأوامر البرمجية الذكية التي وضعناها.",
+      "textPreview": "عندما يضغط بطلن�� على زر الجرس، ينطلق الصوت فوراً بفضل الأوامر البرمجية الذكية التي وضعناها.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "عندما يضغط بطلن�� على زر الجرس، ينطلق الصوت فوراً بفضل الأوامر البرمجية الذكية التي وضعناها."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "عندما يضغط بطلن�� على زر الجرس، ينطلق الصوت فوراً بفضل الأوامر البرمجية الذكية التي وضعناها.",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "عندما يضغط بطلن�� على زر الجرس، ينطلق الصوت فوراً بفضل الأوامر البرمجية الذكية التي وضعناها.",
+              "fontSize": 24,
+              "typeface": "Almarai",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z61032ls",
+      "id": "23",
+      "name": "Freeform 23",
+      "bbox": [
+        1842,
+        859.92,
+        18,
+        18
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#F39C12"
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h0fepkzu",
+      "id": "25",
+      "name": "Freeform 25",
+      "bbox": [
+        990,
+        917.67,
+        870,
+        117
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#FFFFFF"
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9w3m94f",
+      "id": "26",
+      "name": "TextBox 26",
+      "bbox": [
+        1020,
+        933.17,
+        813.6,
+        71.8
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "بمجرد فتح الباب، يضاء المصباح تلقائياً. هذا ليس سحراً، بل هو ذكاء البرمجة الذي يتعلم كيف يفكر ويقرر.",
+      "textPreview": "بمجرد فتح الباب، يضاء المصباح تلقائياً. هذا ليس سحراً، بل هو ذكاء البرمجة الذي يتعلم كيف يفكر ويقرر.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "بمجرد فتح الباب، يضاء المصباح تلقائياً. هذا ليس سحراً، بل هو ذكاء البرمجة الذي يتعلم كيف يفكر ويقرر."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "بمجرد فتح الباب، يضاء المصباح تلقائياً. هذا ليس سحراً، بل هو ذكاء البرمجة الذي يتعلم كيف يفكر ويقرر.",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "بمجرد فتح الباب، يضاء المصباح تلقائياً. هذا ليس سحراً، بل هو ذكاء البرمجة الذي يتعلم كيف يفكر ويقرر.",
+              "fontSize": 24,
+              "typeface": "Almarai",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/obm58z25",
+      "id": "28",
+      "name": "Freeform 28",
+      "bbox": [
+        60,
+        168,
+        870,
+        483
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#FFFFFF"
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hwfyxobm",
+      "id": "29",
+      "name": "TextBox 29",
+      "bbox": [
+        96,
+        205,
+        802.08,
+        62.36
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "تحليل التفاعل الذكي",
+      "textPreview": "تحليل التفاعل الذكي",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "تحليل التفاعل الذكي"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "تحليل التفاعل الذكي",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "تحليل التفاعل الذكي",
+              "fontSize": 33,
+              "typeface": "Cairo Bold",
+              "color": "#2C4D9E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ed8bat47",
+      "id": "31",
+      "name": "Freeform 31",
+      "bbox": [
+        94.5,
+        295.5,
+        801,
+        213
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#F39C12",
+      "lineWidth": 3
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l0rqd4vm",
+      "id": "32",
+      "name": "TextBox 32",
+      "bbox": [
+        635,
+        335,
+        155.52,
+        58.6
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "🔔",
+      "textPreview": "🔔",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "🔔"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "🔔",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "🔔",
+              "fontSize": 48,
+              "typeface": "Almarai",
+              "color": "#F39C12"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wfyxobm5",
+      "id": "33",
+      "name": "TextBox 33",
+      "bbox": [
+        635.02,
+        392,
+        152.64,
+        26.92
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "ضغط الجرس",
+      "textPreview": "ضغط الجرس",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ضغط الجرس"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ضغط الجرس",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ضغط الجرس",
+              "fontSize": 24,
+              "typeface": "Almarai Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/36hcrmhk",
+      "id": "34",
+      "name": "TextBox 34",
+      "bbox": [
+        635.02,
+        429.5,
+        152.64,
+        26.92
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "رد فعل صوتي",
+      "textPreview": "رد فعل صوتي",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "رد فعل صوتي"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "رد فعل صوتي",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "رد فعل صوتي",
+              "fontSize": 24,
+              "typeface": "Almarai Bold",
+              "color": "#F39C12",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/eloj2t83",
+      "id": "35",
+      "name": "TextBox 35",
+      "bbox": [
+        453.02,
+        372.5,
+        47.52,
+        58.6
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "➔",
+      "textPreview": "➔",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "➔"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "➔",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "➔",
+              "fontSize": 48,
+              "typeface": "Almarai",
+              "color": "#5670B1"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lc7u54zi",
+      "id": "36",
+      "name": "TextBox 36",
+      "bbox": [
+        205.45,
+        335,
+        110.88,
+        58.6
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "💡",
+      "textPreview": "💡",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "💡"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "💡",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "💡",
+              "fontSize": 48,
+              "typeface": "Almarai",
+              "color": "#F39C12"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wra5gbq1",
+      "id": "37",
+      "name": "TextBox 37",
+      "bbox": [
+        205.47,
+        392,
+        109.44,
+        26.92
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "فتح الباب",
+      "textPreview": "فتح الباب",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "فتح الباب"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "فتح الباب",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "فتح الباب",
+              "fontSize": 24,
+              "typeface": "Almarai Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7adsji5s",
+      "id": "38",
+      "name": "TextBox 38",
+      "bbox": [
+        205.47,
+        429.5,
+        109.44,
+        26.92
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "إضاءة آلية",
+      "textPreview": "إضاءة آلية",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "إضاءة آلية"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "إضاءة آلية",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "إضاءة آلية",
+              "fontSize": 24,
+              "typeface": "Almarai Bold",
+              "color": "#E74C3C",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/epkzupwb",
+      "id": "39",
+      "name": "TextBox 39",
+      "bbox": [
+        96,
+        536,
+        800.64,
+        79
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "جافا سكريبت هي المحرك الأساسي الذي يربط بين الفعل و النتيجة في عالم الويب.",
+      "textPreview": "جافا سكريبت هي المحرك الأساسي الذي يربط بين الفعل و النتيجة في عالم الويب.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "جافا سكريبت هي المحرك الأساسي الذي يربط بين الفعل و النتيجة في عالم الويب."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "جافا سكريبت هي المحرك الأساسي الذي يربط بين الفعل و النتيجة في عالم الويب.",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "جافا سكريبت هي المحرك الأساسي الذي يربط بين ",
+              "fontSize": 24,
+              "typeface": "Almarai Bold",
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "الفعل",
+              "fontSize": 24,
+              "typeface": "Almarai Bold",
+              "color": "#F39C12",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": " و ",
+              "fontSize": 24,
+              "typeface": "Almarai Bold",
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "النتيجة",
+              "fontSize": 24,
+              "typeface": "Almarai Bold",
+              "color": "#E74C3C",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": " في عالم الويب",
+              "fontSize": 24,
+              "typeface": "Almarai Bold",
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 6,
+              "text": ".",
+              "fontSize": 24,
+              "typeface": "Almarai Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3itgfmlk",
+      "id": "41",
+      "name": "Freeform 41",
+      "bbox": [
+        60,
+        699,
+        870,
+        353.67
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#5670B1"
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w3m94fu1",
+      "id": "42",
+      "name": "TextBox 42",
+      "bbox": [
+        96,
+        736,
+        802.08,
+        62.36
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "لماذا جافا سكريبت؟",
+      "textPreview": "لماذا جافا سكريبت؟",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "لماذا جافا سكريبت؟"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "لماذا جافا سكريبت؟",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "لماذا جافا سكريبت؟",
+              "fontSize": 33,
+              "typeface": "Cairo Bold",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e9cvixcz",
+      "id": "44",
+      "name": "Freeform 44",
+      "bbox": [
+        876,
+        831.75,
+        18,
+        18
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#E74C3C"
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3q5o7qpg",
+      "id": "45",
+      "name": "TextBox 45",
+      "bbox": [
+        541.5,
+        827,
+        325.44,
+        26.92
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "تجعل المواقع حية وتنبض بالحركة",
+      "textPreview": "تجعل المواقع حية وتنبض بالحركة",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "تجعل المواقع حية وتنبض بالحركة"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "تجعل المواقع حية وتنبض بالحركة",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "تجعل المواقع حية وتنبض بالحركة",
+              "fontSize": 24,
+              "typeface": "Almarai",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lwval87e",
+      "id": "47",
+      "name": "Freeform 47",
+      "bbox": [
+        876,
+        875.25,
+        18,
+        18
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#E74C3C"
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ahoza1gv",
+      "id": "48",
+      "name": "TextBox 48",
+      "bbox": [
+        493.5,
+        870.5,
+        374.4,
+        26.92
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "تسمح للمستخدم بالتفاعل مع العناصر",
+      "textPreview": "تسمح للمستخدم بالتفاعل مع العناصر",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "تسمح للمستخدم بالتفاعل مع العناصر"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "تسمح للمستخدم بالتفاعل مع العناصر",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "تسمح للمستخدم بالتفاعل مع العناصر",
+              "fontSize": 24,
+              "typeface": "Almarai",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t47y1kre",
+      "id": "50",
+      "name": "Freeform 50",
+      "bbox": [
+        876,
+        918.75,
+        18,
+        18
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#E74C3C"
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0je9cvix",
+      "id": "51",
+      "name": "TextBox 51",
+      "bbox": [
+        574.5,
+        914,
+        292.32,
+        26.92
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "تنفذ الأوامر في أجزاء من الثانية",
+      "textPreview": "تنفذ الأوامر في أجزاء من الثانية",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "تنفذ الأوامر في أجزاء من الثانية"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "تنفذ الأوامر في أجزاء من الثانية",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "تنفذ الأوامر في أجزاء من الثانية",
+              "fontSize": 24,
+              "typeface": "Almarai",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/idonyd0z",
+      "id": "53",
+      "name": "Freeform 53",
+      "bbox": [
+        876,
+        962.25,
+        18,
+        18
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#E74C3C"
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tcj6tova",
+      "id": "54",
+      "name": "TextBox 54",
+      "bbox": [
+        487.5,
+        957.5,
+        381.6,
+        26.92
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "تعتبر الخطوة الأولى لبناء تطبيقات ذكية",
+      "textPreview": "تعتبر الخطوة الأولى لبناء تطبيقات ذكية",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "تعتبر الخطوة الأولى لبناء تطبيقات ذكية"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "تعتبر الخطوة الأولى لبناء تطبيقات ذكية",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "تعتبر الخطوة الأولى لبناء تطبيقات ذكية",
+              "fontSize": 24,
+              "typeface": "Almarai",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

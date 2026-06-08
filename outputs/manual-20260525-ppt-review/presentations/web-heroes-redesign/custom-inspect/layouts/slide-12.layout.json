@@ -1,0 +1,1469 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/4fu18jqh",
+    "id": "4fu18jqh",
+    "slide": 13,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "Blank",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Almarai",
+      "Almarai Bold",
+      "Cairo Bold",
+      "Calibri"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "Blank",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/2",
+          "id": "2",
+          "name": "Date Placeholder 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/3",
+          "id": "3",
+          "name": "Footer Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/4",
+          "id": "4",
+          "name": "Slide Number Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            48,
+            28.83,
+            864,
+            120
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            48,
+            168,
+            864,
+            475.17
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            48,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            328,
+            667.33,
+            304,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            688,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lszqtcj6",
+      "id": "3",
+      "name": "Freeform 3",
+      "bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#F0F9FF"
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ylc7u54",
+      "id": "5",
+      "name": "Freeform 5",
+      "bbox": [
+        0,
+        34.99,
+        1920,
+        1010.02
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#FFFFFF"
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4byhgn2",
+      "id": "7",
+      "name": "Freeform 7",
+      "bbox": [
+        94.5,
+        195.49,
+        1731,
+        3
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "lineColor": "#5670B1",
+      "lineWidth": 3,
+      "fillImage": {
+        "assetId": "/ppt/media/image1.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 21932
+      }
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ap4r65wj",
+      "id": "8",
+      "name": "TextBox 8",
+      "bbox": [
+        1357.5,
+        130.99,
+        469.44,
+        50.4
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "مغامرة بناء عالم الويب للأبطال الصغار",
+      "textPreview": "مغامرة بناء عالم الويب للأبطال الصغار",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "مغامرة بناء عالم الويب للأبطال الصغار"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "مغامرة بناء عالم الويب للأبطال الصغار",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "مغامرة بناء عالم الويب للأبطال الصغار",
+              "fontSize": 27,
+              "typeface": "Cairo Bold",
+              "color": "#5670B1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/za1gvy90",
+      "id": "9",
+      "name": "TextBox 9",
+      "bbox": [
+        96,
+        130.99,
+        197.28,
+        50.4
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "خاتمة تشجيعية",
+      "textPreview": "خاتمة تشجيعية",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "خاتمة تشجيعية"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "خاتمة تشجيعية",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "خاتمة تشجيعية",
+              "fontSize": 27,
+              "typeface": "Cairo Bold",
+              "color": "#5670B1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z61032ls",
+      "id": "10",
+      "name": "TextBox 10",
+      "bbox": [
+        167.64,
+        465.25,
+        590.4,
+        169.16
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "أنتم الآن مبرمجو\nالمستقبل المبدعون",
+      "textPreview": "أنتم الآن مبرمجو | المستقبل المبدعون",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "أنتم الآن مبرمجو"
+          },
+          {
+            "index": 2,
+            "text": "المستقبل المبدعون"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "أنتم الآن مبرمجو",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "أنتم الآن مبرمجو",
+              "fontSize": 63,
+              "typeface": "Cairo Bold",
+              "color": "#2C4D9E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "المستقبل المبدعون",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "المستقبل المبدعون",
+              "fontSize": 63,
+              "typeface": "Cairo Bold",
+              "color": "#2C4D9E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/al87ed8b",
+      "id": "11",
+      "name": "TextBox 11",
+      "bbox": [
+        202.89,
+        683.89,
+        113.76,
+        51.4
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "#1",
+      "textPreview": "#1",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "#1"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "#1",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "#1",
+              "fontSize": 45,
+              "typeface": "Almarai Bold",
+              "color": "#E74C3C",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcrmhk3q",
+      "id": "12",
+      "name": "TextBox 12",
+      "bbox": [
+        202.91,
+        746.39,
+        110.88,
+        24.48
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "البداية الأولى",
+      "textPreview": "البداية الأولى",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "البداية الأولى"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "البداية الأولى",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "البداية الأولى",
+              "fontSize": 21,
+              "typeface": "Almarai",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/orytsvu9",
+      "id": "13",
+      "name": "TextBox 13",
+      "bbox": [
+        345.3,
+        683.89,
+        123.84,
+        54.28
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "★",
+      "textPreview": "★",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "★"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "★",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "★",
+              "fontSize": 45,
+              "typeface": "Almarai Bold",
+              "color": "#F39C12",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zupwb2hw",
+      "id": "14",
+      "name": "TextBox 14",
+      "bbox": [
+        345.32,
+        749.39,
+        120.96,
+        24.48
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "طريق الابتكار",
+      "textPreview": "طريق الابتكار",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "طريق الابتكار"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "طريق الابتكار",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "طريق الابتكار",
+              "fontSize": 21,
+              "typeface": "Almarai",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9w3m94f",
+      "id": "15",
+      "name": "TextBox 15",
+      "bbox": [
+        496.86,
+        683.89,
+        116.64,
+        52.84
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "∞",
+      "textPreview": "∞",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "∞"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "∞",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "∞",
+              "fontSize": 45,
+              "typeface": "Almarai Bold",
+              "color": "#2C4D9E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h0fepkzu",
+      "id": "16",
+      "name": "TextBox 16",
+      "bbox": [
+        496.88,
+        747.89,
+        115.2,
+        24.48
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "إبداع مستمر",
+      "textPreview": "إبداع مستمر",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "إبداع مستمر"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "إبداع مستمر",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "إبداع مستمر",
+              "fontSize": 21,
+              "typeface": "Almarai",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zqtcj6to",
+      "id": "18",
+      "name": "Freeform 18",
+      "bbox": [
+        798.77,
+        354.49,
+        1.41,
+        534.52
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "rgba(86, 112, 177, 0.03922)"
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ed8bat47",
+      "id": "20",
+      "name": "Freeform 20",
+      "bbox": [
+        1820.98,
+        291.49,
+        6,
+        184.17
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "lineColor": "#F39C12",
+      "lineWidth": 6,
+      "fillImage": {
+        "assetId": "/ppt/media/image1.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 21932
+      }
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7u54zido",
+      "id": "21",
+      "name": "TextBox 21",
+      "bbox": [
+        1199.98,
+        295.49,
+        478.08,
+        62.36
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "كل موقع كبير بدأ بأساس بسيط",
+      "textPreview": "كل موقع كبير بدأ بأساس بسيط",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "كل موقع كبير بدأ بأساس بسيط"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "كل موقع كبير بدأ بأساس بسيط",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "كل موقع كبير بدأ بأساس بسيط",
+              "fontSize": 33,
+              "typeface": "Cairo Bold",
+              "color": "#2C4D9E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l0rqd4vm",
+      "id": "23",
+      "name": "Freeform 23",
+      "bbox": [
+        1673.98,
+        324.49,
+        72,
+        3
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#F39C12"
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/eloj2t83",
+      "id": "24",
+      "name": "TextBox 24",
+      "bbox": [
+        847.83,
+        362.33,
+        925.92,
+        110.92
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "يا أبطال، تذكروا أن كل موقع عملاق ترونه اليوم بدأ بفكرة صغيرة وأساس متين، وأنتم تمتلكون الآن تلك الأدوات.",
+      "textPreview": "يا أبطال، تذكروا أن كل موقع عملاق ترونه اليوم بدأ بفكرة صغيرة وأساس متين، وأنتم تمتلكون الآن تلك الأدوات.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "يا أبطال، تذكروا أن كل موقع عملاق ترونه اليوم بدأ بفكرة صغيرة وأساس متين، وأنتم تمتلكون الآن تلك"
+          },
+          {
+            "index": 2,
+            "text": "الأدوات."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "يا أبطال، تذكروا أن كل موقع عملاق ترونه اليوم بدأ بفكرة صغيرة وأساس متين، وأنتم تمتلكون الآن تلك الأدوات.",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "يا أبطال، تذكروا أن كل ",
+              "fontSize": 27,
+              "typeface": "Almarai",
+              "color": "#000000"
+            },
+            {
+              "index": 2,
+              "text": "موقع عملاق",
+              "fontSize": 27,
+              "typeface": "Almarai Bold",
+              "color": "#2C4D9E",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": " ترونه اليوم بدأ بفكرة صغيرة وأساس متين، وأنتم تمتلكون الآن تلك الأدوات",
+              "fontSize": 27,
+              "typeface": "Almarai",
+              "color": "#000000"
+            },
+            {
+              "index": 4,
+              "text": ".",
+              "fontSize": 27,
+              "typeface": "Almarai",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wra5gbq1",
+      "id": "26",
+      "name": "Freeform 26",
+      "bbox": [
+        1820.98,
+        529.66,
+        6,
+        184.17
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "lineColor": "#F39C12",
+      "lineWidth": 6,
+      "fillImage": {
+        "assetId": "/ppt/media/image1.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 21932
+      }
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lc7u54zi",
+      "id": "27",
+      "name": "TextBox 27",
+      "bbox": [
+        1279.48,
+        533.66,
+        398.88,
+        62.36
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "استمروا في البناء والتجربة",
+      "textPreview": "استمروا في البناء والتجربة",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "استمروا في البناء والتجربة"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "استمروا في البناء والتجربة",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "استمروا في البناء والتجربة",
+              "fontSize": 33,
+              "typeface": "Cairo Bold",
+              "color": "#2C4D9E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7adsji5s",
+      "id": "29",
+      "name": "Freeform 29",
+      "bbox": [
+        1673.98,
+        562.66,
+        72,
+        3
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#F39C12"
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tgfmlkjm",
+      "id": "30",
+      "name": "TextBox 30",
+      "bbox": [
+        847.83,
+        600.5,
+        925.92,
+        110.92
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "رحلتكم في عالم البرمجة الممتعة مستمرة، فاستمروا في الابتكار بكل حب وشغف لبناء مستقبلكم الرقمي.",
+      "textPreview": "رحلتكم في عالم البرمجة الممتعة مستمرة، فاستمروا في الابتكار بكل حب وشغف لبناء مستقبلكم الرقمي.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "رحلتكم في عالم البرمجة الممتعة مستمرة، فاستمروا في الابتكار بكل حب وشغف لبناء مستقبلكم الرقمي."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "رحلتكم في عالم البرمجة الممتعة مستمرة، فاستمروا في الابتكار بكل حب وشغف لبناء مستقبلكم الرقمي.",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "رحلتكم في عالم ",
+              "fontSize": 27,
+              "typeface": "Almarai",
+              "color": "#000000"
+            },
+            {
+              "index": 2,
+              "text": "البرمجة الممتعة",
+              "fontSize": 27,
+              "typeface": "Almarai Bold",
+              "color": "#F39C12",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": " مستمرة، فاستمروا في الابتكار بكل حب وشغف لبناء مستقبلكم الرقمي",
+              "fontSize": 27,
+              "typeface": "Almarai",
+              "color": "#000000"
+            },
+            {
+              "index": 4,
+              "text": ".",
+              "fontSize": 27,
+              "typeface": "Almarai",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bat47y1k",
+      "id": "32",
+      "name": "Freeform 32",
+      "bbox": [
+        1820.98,
+        767.84,
+        6,
+        184.17
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "lineColor": "#F39C12",
+      "lineWidth": 6,
+      "fillImage": {
+        "assetId": "/ppt/media/image1.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 21932
+      }
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mp0bi9s3",
+      "id": "33",
+      "name": "TextBox 33",
+      "bbox": [
+        1345.48,
+        771.84,
+        332.64,
+        62.36
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "العالم ينتظر لمساتكم",
+      "textPreview": "العالم ينتظر لمساتكم",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "العالم ينتظر لمساتكم"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "العالم ينتظر لمساتكم",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "العالم ينتظر لمساتكم",
+              "fontSize": 33,
+              "typeface": "Cairo Bold",
+              "color": "#2C4D9E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47y1kre1",
+      "id": "35",
+      "name": "Freeform 35",
+      "bbox": [
+        1673.98,
+        800.84,
+        72,
+        3
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#F39C12"
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bm58z25k",
+      "id": "36",
+      "name": "TextBox 36",
+      "bbox": [
+        847.83,
+        838.67,
+        925.92,
+        110.92
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "انطلقوا الآن واستمتعوا بصناعة عالمكم الخاص، فالعالم كله ينتظر إبداعاتكم السحرية والمميزة!",
+      "textPreview": "انطلقوا الآن واستمتعوا بصناعة عالمكم الخاص، فالعالم كله ينتظر إبداعاتكم السحرية والمميزة!",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "انطلقوا الآن واستمتعوا بصناعة عالمكم الخاص، فالعالم كله ينتظر إبداعاتكم السحرية والمميزة!"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "انطلقوا الآن واستمتعوا بصناعة عالمكم الخاص، فالعالم كله ينتظر إبداعاتكم السحرية والمميزة!",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "انطلقوا الآن واستمتعوا بصناعة ",
+              "fontSize": 27,
+              "typeface": "Almarai",
+              "color": "#000000"
+            },
+            {
+              "index": 2,
+              "text": "عالمكم الخاص",
+              "fontSize": 27,
+              "typeface": "Almarai Bold",
+              "color": "#E74C3C",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "، فالعالم كله ينتظر إبداعاتكم السحرية والمميزة",
+              "fontSize": 27,
+              "typeface": "Almarai",
+              "color": "#000000"
+            },
+            {
+              "index": 4,
+              "text": "!",
+              "fontSize": 27,
+              "typeface": "Almarai",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

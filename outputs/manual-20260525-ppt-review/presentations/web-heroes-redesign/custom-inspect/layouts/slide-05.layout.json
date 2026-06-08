@@ -1,0 +1,1637 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/mlkjm1cf",
+    "id": "mlkjm1cf",
+    "slide": 6,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "Blank",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#F0F9FF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Almarai",
+      "Cairo Bold",
+      "Calibri",
+      "Times New Roman",
+      "Times New Roman Bold"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "Blank",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/2",
+          "id": "2",
+          "name": "Date Placeholder 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/3",
+          "id": "3",
+          "name": "Footer Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/4",
+          "id": "4",
+          "name": "Slide Number Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            48,
+            28.83,
+            864,
+            120
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            48,
+            168,
+            864,
+            475.17
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            48,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            328,
+            667.33,
+            304,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            688,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dg7adsji",
+      "id": "3",
+      "name": "Freeform 3",
+      "bbox": [
+        0,
+        0,
+        1920,
+        1132.5
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#F0F9FF"
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z25kb6xk",
+      "id": "5",
+      "name": "Freeform 5",
+      "bbox": [
+        0,
+        0,
+        1920,
+        1132.5
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#FFFFFF"
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d8v6psfi",
+      "id": "7",
+      "name": "Freeform 7",
+      "bbox": [
+        58.5,
+        124.5,
+        1803,
+        3
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "lineColor": "#2C4D9E",
+      "lineWidth": 3,
+      "fillImage": {
+        "assetId": "/ppt/media/image1.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 21932
+      }
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6dcbulwv",
+      "id": "8",
+      "name": "TextBox 8",
+      "bbox": [
+        1393.5,
+        60,
+        469.44,
+        50.4
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "مغامرة بناء عالم الويب للأبطال الصغار",
+      "textPreview": "مغامرة بناء عالم الويب للأبطال الصغار",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "مغامرة بناء عالم الويب للأبطال الصغار"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "مغامرة بناء عالم الويب للأبطال الصغار",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "مغامرة بناء عالم الويب للأبطال الصغار",
+              "fontSize": 27,
+              "typeface": "Cairo Bold",
+              "color": "#2C4D9E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vy90je9c",
+      "id": "9",
+      "name": "TextBox 9",
+      "bbox": [
+        60,
+        60,
+        312.48,
+        50.4
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "تعلم لغة البرمجة ببساطة",
+      "textPreview": "تعلم لغة البرمجة ببساطة",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "تعلم لغة البرمجة ببساطة"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "تعلم لغة البرمجة ببساطة",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "تعلم لغة البرمجة ببساطة",
+              "fontSize": 27,
+              "typeface": "Cairo Bold",
+              "color": "#2C4D9E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nuxc3ylc",
+      "id": "10",
+      "name": "TextBox 10",
+      "bbox": [
+        60,
+        187.79,
+        442.58,
+        75
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "كيف نكتب بلغة",
+      "textPreview": "كيف نكتب بلغة",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "كيف نكتب بلغة"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "كيف نكتب بلغة",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "كيف نكتب بلغة",
+              "fontSize": 63,
+              "typeface": "Cairo Bold",
+              "color": "#2C4D9E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y90je9cv",
+      "id": "11",
+      "name": "TextBox 11",
+      "bbox": [
+        60,
+        275.38,
+        405.47,
+        75
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "البناء ببساطة؟",
+      "textPreview": "البناء ببساطة؟",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "البناء ببساطة؟"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "البناء ببساطة؟",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "البناء ببساطة؟",
+              "fontSize": 63,
+              "typeface": "Cairo Bold",
+              "color": "#2C4D9E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5wjudg7a",
+      "id": "12",
+      "name": "TextBox 12",
+      "bbox": [
+        60,
+        381.67,
+        874.08,
+        38
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "أساسيات لغة HTML",
+      "textPreview": "أساسيات لغة HTML",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "أساسيات لغة HTML"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "أساسيات لغة HTML",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "أساسيات لغة ",
+              "fontSize": 33,
+              "typeface": "Cairo Bold",
+              "color": "#E74C3C",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "HTML",
+              "fontSize": 33,
+              "typeface": "Cairo Bold",
+              "color": "#E74C3C",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n29gr2p8",
+      "id": "14",
+      "name": "Freeform 14",
+      "bbox": [
+        60,
+        473.67,
+        870,
+        159.89
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#F0F9FF"
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58z25kb6",
+      "id": "16",
+      "name": "Freeform 16",
+      "bbox": [
+        925.5,
+        469.17,
+        9,
+        168.89
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "lineColor": "#2C4D9E",
+      "lineWidth": 9,
+      "fillImage": {
+        "assetId": "/ppt/media/image1.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 21932
+      }
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gn29gr2p",
+      "id": "17",
+      "name": "TextBox 17",
+      "bbox": [
+        90,
+        503.67,
+        804.96,
+        96
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "\"أحجار البناء السحرية\" ✨🧱\n\n",
+      "textPreview": "\"أحجار البناء السحرية\" ✨🧱 |  |",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "\"أحجار البناء السحرية\" ✨🧱"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "\"أحجار البناء السحرية\" ✨🧱",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "\"",
+              "fontSize": 27,
+              "typeface": "Cairo Bold",
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "أحجار البناء السحرية\" ✨🧱",
+              "fontSize": 27,
+              "typeface": "Cairo Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/neloj2t8",
+      "id": "18",
+      "name": "TextBox 18",
+      "bbox": [
+        90,
+        564.87,
+        820.8,
+        30
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "تخيل أن وسوم HTML هي أحجار لها بداية ونهاية محددة.",
+      "textPreview": "تخيل أن وسوم HTML هي أحجار لها بداية ونهاية محددة.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "تخيل أن وسوم HTML هي أحجار لها بداية ونهاية محددة."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "تخيل أن وسوم HTML هي أحجار لها بداية ونهاية محددة.",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "تخيل أن وسوم ",
+              "fontSize": 25.49,
+              "typeface": "Almarai",
+              "color": "#000000"
+            },
+            {
+              "index": 2,
+              "text": "HTML",
+              "fontSize": 25.49,
+              "typeface": "Almarai",
+              "color": "#000000"
+            },
+            {
+              "index": 3,
+              "text": " هي أحجار لها بداية ونهاية محددة.",
+              "fontSize": 25.49,
+              "typeface": "Almarai",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2x4nap4r",
+      "id": "20",
+      "name": "Freeform 20",
+      "bbox": [
+        60,
+        657.56,
+        870,
+        198.28
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#F0F9FF"
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k3q5o7qp",
+      "id": "22",
+      "name": "Freeform 22",
+      "bbox": [
+        925.5,
+        653.06,
+        9,
+        207.28
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "lineColor": "#E74C3C",
+      "lineWidth": 9,
+      "fillImage": {
+        "assetId": "/ppt/media/image1.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 21932
+      }
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/donyd0z6",
+      "id": "23",
+      "name": "TextBox 23",
+      "bbox": [
+        90,
+        687.56,
+        804.96,
+        32
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "خطوات بناء العنوان:",
+      "textPreview": "خطوات بناء العنوان:",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "خطوات بناء العنوان:"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "خطوات بناء العنوان:",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "خطوات بناء العنوان:",
+              "fontSize": 27,
+              "typeface": "Cairo Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6psfil0r",
+      "id": "24",
+      "name": "TextBox 24",
+      "bbox": [
+        90,
+        748.76,
+        820.8,
+        30
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "نضع حجر البداية [h1] ثم نكتب اسم بيتنا الجميل.",
+      "textPreview": "نضع حجر البداية [h1] ثم نكتب اسم بيتنا الجميل.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "نضع حجر البداية [h1] ثم نكتب اسم بيتنا الجميل."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "نضع حجر البداية [h1] ثم نكتب اسم بيتنا الجميل.",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "نضع حجر البداية [",
+              "fontSize": 25.49,
+              "typeface": "Almarai",
+              "color": "#000000"
+            },
+            {
+              "index": 2,
+              "text": "h1",
+              "fontSize": 25.49,
+              "typeface": "Almarai",
+              "color": "#000000"
+            },
+            {
+              "index": 3,
+              "text": "] ثم نكتب اسم بيتنا الجميل.",
+              "fontSize": 25.49,
+              "typeface": "Almarai",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/val87ed8",
+      "id": "25",
+      "name": "TextBox 25",
+      "bbox": [
+        90,
+        787.15,
+        820.8,
+        30
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "نغلق العمل بحجر النهاية [/h1] ليكتمل البناء بسلام.",
+      "textPreview": "نغلق العمل بحجر النهاية [/h1] ليكتمل البناء بسلام.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "نغلق العمل بحجر النهاية [/h1] ليكتمل البناء بسلام."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "نغلق العمل بحجر النهاية [/h1] ليكتمل البناء بسلام.",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "نغلق العمل بحجر النهاية [/",
+              "fontSize": 25.49,
+              "typeface": "Almarai",
+              "color": "#000000"
+            },
+            {
+              "index": 2,
+              "text": "h1",
+              "fontSize": 25.49,
+              "typeface": "Almarai",
+              "color": "#000000"
+            },
+            {
+              "index": 3,
+              "text": "] ليكتمل البناء بسلام.",
+              "fontSize": 25.49,
+              "typeface": "Almarai",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcbulwva",
+      "id": "27",
+      "name": "Freeform 27",
+      "bbox": [
+        60,
+        879.84,
+        870,
+        159.89
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#F0F9FF"
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v6psfil0",
+      "id": "29",
+      "name": "Freeform 29",
+      "bbox": [
+        925.5,
+        875.34,
+        9,
+        168.89
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "lineColor": "#F39C12",
+      "lineWidth": 9,
+      "fillImage": {
+        "assetId": "/ppt/media/image1.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 21932
+      }
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4byhgn2",
+      "id": "30",
+      "name": "TextBox 30",
+      "bbox": [
+        90,
+        909.84,
+        804.96,
+        32
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "النتيجة النهائية:",
+      "textPreview": "النتيجة النهائية:",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "النتيجة النهائية:"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "النتيجة النهائية:",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "النتيجة النهائية:",
+              "fontSize": 27,
+              "typeface": "Cairo Bold",
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sji5snel",
+      "id": "31",
+      "name": "TextBox 31",
+      "bbox": [
+        90,
+        971.04,
+        820.8,
+        30
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "يظهر النص بوضوح تام لجميع الأبطال الصغار في الموقع.",
+      "textPreview": "يظهر النص بوضوح تام لجميع الأبطال الصغار في الموقع.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "يظهر النص بوضوح تام لجميع الأبطال الصغار في الموقع."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "يظهر النص بوضوح تام لجميع الأبطال الصغار في الموقع.",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "يظهر النص بوضوح تام لجميع الأبطال الصغار في الموقع.",
+              "fontSize": 25.49,
+              "typeface": "Almarai",
+              "color": "#000000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/adsji5sn",
+      "id": "33",
+      "name": "Freeform 33",
+      "bbox": [
+        996,
+        193.5,
+        858,
+        438
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillImage": {
+        "assetId": "/ppt/media/image4.png",
+        "contentType": "image/png",
+        "byteLength": 128720
+      }
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s72x4nap",
+      "id": "35",
+      "name": "Freeform 35",
+      "bbox": [
+        990,
+        673.5,
+        870,
+        399
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#5670B1"
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3m94fu18",
+      "id": "36",
+      "name": "TextBox 36",
+      "bbox": [
+        1026,
+        708.5,
+        802.08,
+        57.16
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "مثال تطبيقي بسيط",
+      "textPreview": "مثال تطبيقي بسيط",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "مثال تطبيقي بسيط"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "مثال تطبيقي بسيط",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "مثال تطبيقي بسيط",
+              "fontSize": 30,
+              "typeface": "Cairo Bold",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a5gbq1or",
+      "id": "37",
+      "name": "TextBox 37",
+      "bbox": [
+        1026,
+        782,
+        805.5,
+        70
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "العنوان الكبير: نستخدم الوسم h1 للنصوص الهامة.\nالوضوح: الوسوم تساعد المتصفح على فهم المحتوى.",
+      "textPreview": "العنوان الكبير: نستخدم الوسم h1 للنصوص الهامة. | الوضوح: الوسوم تساعد المتصفح على فهم المحتوى.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• العنوان الكبير: نستخدم الوسم h1 للنصوص الهامة."
+          },
+          {
+            "index": 2,
+            "text": "• الوضوح: الوسوم تساعد المتصفح على فهم المحتوى."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "العنوان الكبير: نستخدم الوسم h1 للنصوص الهامة.",
+          "bulletCharacter": "•",
+          "marginLeft": 346115,
+          "indent": -173057,
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "العنوان الكبير:",
+              "fontSize": 25.49,
+              "typeface": "Times New Roman Bold",
+              "color": "#FFFFFF",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " نستخدم الوسم",
+              "fontSize": 25.49,
+              "typeface": "Times New Roman",
+              "color": "#FFFFFF"
+            },
+            {
+              "index": 3,
+              "text": " h1 ",
+              "fontSize": 25.49,
+              "typeface": "Times New Roman",
+              "color": "#FFFFFF"
+            },
+            {
+              "index": 4,
+              "text": "للنصوص الهامة",
+              "fontSize": 25.49,
+              "typeface": "Times New Roman",
+              "color": "#FFFFFF"
+            },
+            {
+              "index": 5,
+              "text": ".",
+              "fontSize": 25.49,
+              "typeface": "Times New Roman",
+              "color": "#FFFFFF"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "الوضوح: الوسوم تساعد المتصفح على فهم المحتوى.",
+          "bulletCharacter": "•",
+          "marginLeft": 346115,
+          "indent": -173057,
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "الوضوح:",
+              "fontSize": 25.49,
+              "typeface": "Times New Roman Bold",
+              "color": "#FFFFFF",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " الوسوم تساعد المتصفح على فهم المحتوى",
+              "fontSize": 25.49,
+              "typeface": "Times New Roman",
+              "color": "#FFFFFF"
+            },
+            {
+              "index": 3,
+              "text": ".",
+              "fontSize": 25.49,
+              "typeface": "Times New Roman",
+              "color": "#FFFFFF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hoza1gvy",
+      "id": "38",
+      "name": "TextBox 38",
+      "bbox": [
+        1026,
+        881,
+        802.08,
+        57.16
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "العناصر الأساسية",
+      "textPreview": "العناصر الأساسية",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "العناصر الأساسية"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "العناصر الأساسية",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "العناصر الأساسية",
+              "fontSize": 30,
+              "typeface": "Cairo Bold",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s36hcrmh",
+      "id": "39",
+      "name": "TextBox 39",
+      "bbox": [
+        1026,
+        954.5,
+        805.5,
+        70
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "وسم البداية: يفتح باب الإبداع.\nوسم النهاية: يحمي النص من الخروج.",
+      "textPreview": "وسم البداية: يفتح باب الإبداع. | وسم النهاية: يحمي النص من الخروج.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• وسم البداية: يفتح باب الإبداع."
+          },
+          {
+            "index": 2,
+            "text": "• وسم النهاية: يحمي النص من الخروج."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "وسم البداية: يفتح باب الإبداع.",
+          "bulletCharacter": "•",
+          "marginLeft": 346115,
+          "indent": -173057,
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "وسم البداية: يفتح باب الإبداع",
+              "fontSize": 25.49,
+              "typeface": "Times New Roman",
+              "color": "#FFFFFF"
+            },
+            {
+              "index": 2,
+              "text": ".",
+              "fontSize": 25.49,
+              "typeface": "Times New Roman",
+              "color": "#FFFFFF"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "وسم النهاية: يحمي النص من الخروج.",
+          "bulletCharacter": "•",
+          "marginLeft": 346115,
+          "indent": -173057,
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "وسم النهاية: يحمي النص من الخروج",
+              "fontSize": 25.49,
+              "typeface": "Times New Roman",
+              "color": "#FFFFFF"
+            },
+            {
+              "index": 2,
+              "text": ".",
+              "fontSize": 25.49,
+              "typeface": "Times New Roman",
+              "color": "#FFFFFF"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}
